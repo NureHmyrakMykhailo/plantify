@@ -1,0 +1,9 @@
+{
+  "name": "plantify",
+  "private": true,
+  "prettier": {
+    "trailingComma": "none",
+    "printWidth": 100,
+    "semi": false
+  }
+}
